@@ -24,7 +24,7 @@
     "CSSselect": "~0.4.0",
     "entities": "~1.1.1",
     "htmlparser2": "~3.8.1",
-    "dom-serializer": "fchasen/dom-serializer",
+    "dom-serializer": "oreillymedia/dom-serializer",
     "lodash": "~2.4.1"
   },
   "devDependencies": {
